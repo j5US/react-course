@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "cfef",
+      "name": "Roman Feil DDS"
+    },
+    {
+      "id": "d095",
+      "name": "Johnny Kling"
+    },
+    {
+      "id": "bebb",
+      "name": "Max Kunze"
+    }
+  ],
+  "albums": [
+    {
+      "id": "bbba",
+      "userId": "d095",
+      "title": "Modern Wooden Hat"
+    },
+    {
+      "id": "d8d7",
+      "userId": "bebb",
+      "title": "Tasty Wooden Bacon"
+    },
+    {
+      "id": "8c31",
+      "userId": "cfef",
+      "title": "Awesome Steel Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "efa9",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46793"
+    },
+    {
+      "id": "94d2",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92383"
+    },
+    {
+      "id": "f30a",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61719"
+    },
+    {
+      "id": "4c2b",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80657"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+This is a very basic project based on React. 
+The main motive of this project is to understand the usecases of props in custom JSX components.
+This is the first react project that used the
+bulma library.
+
+-> bulma was installed locally using the command: npm i bulma
+
+-> it was added using: import "bulma/css/bulma.css";
+
+-> also by default the styling was in dark mode: 
+            to disable darmode: add attribute: data-theme="light" to the html tag.
