@@ -1,0 +1,6 @@
+used for images: https://picsum.photos/
+
+additional modules downloaded - npm install json-server@0
+
+before command: npm start
+run command in seperate terminal: npm run server
